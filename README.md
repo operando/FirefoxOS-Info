@@ -23,3 +23,6 @@ http://www.slideshare.net/mhidaka/introduction-togecko
 
 ### Firefox OS のアーキテクチャ
 https://developer.mozilla.org/ja/Firefox_OS/Platform/Architecture
+
+### Firefox OS - オフシャル
+https://www.mozilla.org/en-US/firefox/os/
